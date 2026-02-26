@@ -11,7 +11,7 @@ src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qJDoiMSC5bIbwdql5A
 
 - 🌱 I’m currently learning **Flutter, Flask, Node-Js, Android Studio**
 
-- 💬 Ask me about **JS, Java, SQL, NoSQL, XML, Python, Android Studio**
+- 💬 Ask me about **JS, Java, SQL, Python, Android Studio**
 
 - 📫 How to reach me **sithijameghanasenanayaka456@gmail.com**
 
