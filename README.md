@@ -1,7 +1,6 @@
-![Header](./header.png)
+![Header](github-header-banner.png)
 
-<h1 align="center">Hi 👋, I'm Sithija Meghana</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate full stack developer from Sri Lanka🇱🇰</h3>
 <img align="right" alt="Coding" width="400" 
 src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qJDoiMSC5bIbwdql5AB8fg.gif">
 
