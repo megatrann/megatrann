@@ -17,9 +17,6 @@ src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qJDoiMSC5bIbwdql5A
 
 - ⚡ Fun fact **I think I'm funny**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
